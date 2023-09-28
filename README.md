@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Othmane Kella Bennani
+- 👀 I’m interested in computer science, including developong  an App, 
+- 🌱 I’m currently learning news technologies as Java,Python,Js,..
+- 📫 How to reach me .., my email: okebennai@gmail.com
