@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning news technologies as Java,Python,Js,..
 - 📫 How to reach me .., my email: okebennai@gmail.com
 - il fait tres chaud a Fes
-- Je suis Othmane BENNANI KELLA 
